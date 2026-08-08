@@ -39,12 +39,11 @@
 
 <br/>
 <div align="center">
-
 ## 🛠️ Tech Stack
-</div>
 
 
-<div align="center">
+
+
 
 **Frontend**
 
@@ -71,10 +70,10 @@
 </div>
 
 <br/>
-
+<div align="center">
 ## 📌 Featured Project
 
-<div align="center">
+
 
 ### 📚 Library Management System
 Full end-to-end web-based library management application built with **Oracle APEX** (front end) and **SQL** (backend database).
@@ -84,10 +83,10 @@ Full end-to-end web-based library management application built with **Oracle APE
 </div>
 
 <br/>
-
+<div align="center">
 ## 📊 GitHub Stats
 
-<div align="center">
+
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinhaaniket216-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaaniket216-dot&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
@@ -108,10 +107,10 @@ Full end-to-end web-based library management application built with **Oracle APE
 </div>
 
 <br/>
-
+<div align="center">
 ## 🤝 Connect With Me
 
-<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/-Aniket%20Sinha-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sinha03)
 [![Gmail](https://img.shields.io/badge/-sinhaaniket216@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinhaaniket216@gmail.com)
