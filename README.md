@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&lines=Aspiring+Full+Stack+Developer;Oracle+APEX+%7C+SQL+%7C+JavaScript;Building+End-to-End+Web+Apps;AI-Assisted+Developer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Aspiring+Full+Stack+Developer;Oracle+APEX+%7C+SQL+%7C+JavaScript;Building+End-to-End+Web+Apps;AI-Assisted+Developer+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,26 +24,22 @@
 </div>
 
 <br/>
-<div align="center">
 
 ## 👨‍💻 About Me
-</div>
 
-- 🎓 Completed my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
+- 🎓 Currently pursuing my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
 - 💼 Completed a **Software Development Internship** at Nerds and Geeks Pvt. Ltd., building database-driven apps with **Oracle APEX & SQL**
 - 🌱 Learning front-end & back-end fundamentals, version control, and **AI-assisted development**
 - 🚀 Seeking an **entry-level Full Stack Developer** role to design, build & maintain end-to-end web applications
 - 📍 Based in **Bangalore, Karnataka, India**
 - ⚡ Fun fact: I love debugging as much as building — every bug is a puzzle!
 
-
 <br/>
-<div align="center">
- 🛠️ Tech Stack
-</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
+
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,10 +65,10 @@
 </div>
 
 <br/>
-<div align="center">
+
 ## 📌 Featured Project
 
-
+<div align="center">
 
 ### 📚 Library Management System
 Full end-to-end web-based library management application built with **Oracle APEX** (front end) and **SQL** (backend database).
@@ -82,10 +78,10 @@ Full end-to-end web-based library management application built with **Oracle APE
 </div>
 
 <br/>
-<div align="center">
+
 ## 📊 GitHub Stats
 
-
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinhaaniket216-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaaniket216-dot&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
@@ -106,10 +102,10 @@ Full end-to-end web-based library management application built with **Oracle APE
 </div>
 
 <br/>
-<div align="center">
+
 ## 🤝 Connect With Me
 
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Aniket%20Sinha-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sinha03)
 [![Gmail](https://img.shields.io/badge/-sinhaaniket216@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinhaaniket216@gmail.com)
