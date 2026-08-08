@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
+- 🎓 Completed my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
 - 💼 Completed a **Software Development Internship** at Nerds and Geeks Pvt. Ltd., building database-driven apps with **Oracle APEX & SQL**
 - 🌱 Learning front-end & back-end fundamentals, version control, and **AI-assisted development**
 - 🚀 Seeking an **entry-level Full Stack Developer** role to design, build & maintain end-to-end web applications
