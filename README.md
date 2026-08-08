@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/aniket-sinha03" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="sinhaaniket216@gmail.com">
+<a href="mailto:sinhaaniket216@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/sinhaaniket216-dot" target="_blank">
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
+- 🎓 Currently Completed my **Bachelor of Computer Applications (BCA)** at Garden City University *(2023 – 2026)*
 - 💼 Completed a **Software Development Internship** at Nerds and Geeks Pvt. Ltd., building database-driven apps with **Oracle APEX & SQL**
 - 🌱 Learning front-end & back-end fundamentals, version control, and **AI-assisted development**
 - 🚀 Seeking an **entry-level Full Stack Developer** role to design, build & maintain end-to-end web applications
@@ -83,4 +83,37 @@ Full end-to-end web-based library management application built with **Oracle APE
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinhaaniket216-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?userna
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaaniket216-dot&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaaniket216-dot&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinhaaniket216-dot&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Contribution snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sinhaaniket216-dot/sinhaaniket216-dot/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Aniket%20Sinha-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sinha03)
+[![Gmail](https://img.shields.io/badge/-sinhaaniket216@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinhaaniket216@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinhaaniket216-dot&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
